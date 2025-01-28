@@ -19,10 +19,10 @@ I'm **Pratik Mishra** (aka Retr0_0), your friendly neighborhood **UI/UX Designer
 💻 Programming Skills
 
 - **Languages**
-  - Java, Python, HTML/CSS
+  - JavaScript, Python, HTML/CSS
 
 - **Frameworks & Libraries**
-  - React, Angular, Vue, Node.js
+  - React, Node.js, Three.js
 
 - **Tools**
   - Git & GitHub
